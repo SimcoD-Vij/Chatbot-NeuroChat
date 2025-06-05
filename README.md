@@ -1,6 +1,6 @@
-# 🧠 Intelligent Chatbot - Rule-based + LLM Hybrid
+# 🧠 NeuroChat : Intelligent Chatbot - Rule-based + LLM Hybrid
 
-Welcome to my custom-built intelligent chatbot, designed with a hybrid system that combines:
+Welcome to my NeuroChat  -custom-built intelligent chatbot, designed with a hybrid system that combines:
 - ⚙️ Rule-based logic
 - 🧠 Vector memory
 - 🔮 LLM fallback (Notus-7B)
