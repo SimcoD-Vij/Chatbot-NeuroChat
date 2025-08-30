@@ -76,8 +76,8 @@ chatbot-deploy/
 
 1. **Clone the Repo**
    ```bash
-   git clone https://huggingface.co/spaces/YourUsername/YourChatbot](https://github.com/SimcoD-Vij/Chatbot-NeuroChat.git
-   cd YourChatbot
+   git clone https://github.com/SimcoD-Vij/Chatbot-NeuroChat.git
+      cd YourChatbot
 
 Install Dependencies-    pip install -r requirements.txt
 
